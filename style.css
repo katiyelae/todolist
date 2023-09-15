@@ -1,0 +1,8 @@
+header {
+    text-align: center;
+}
+
+.task-container{
+    display: flex;
+    flex-direction: column;
+}
